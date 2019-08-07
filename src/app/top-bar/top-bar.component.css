@@ -1,0 +1,18 @@
+.maintitle{
+    color: rgb(78, 78, 78); 
+    font-family: 'Righteous', cursive; 
+    font-size: 65px; 
+    font-weight: normal; 
+    line-height: 60px; 
+    margin: 10px 0 20px; 
+    text-transform: uppercase; 
+    text-shadow: 3px 3px 0 rgb(145, 136, 136); 
+    text-align: center;
+  }
+
+.mainlogo{
+  position: ;
+  top: 0;
+  left: 0;
+  width: 150px;
+  }
